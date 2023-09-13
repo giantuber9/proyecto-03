@@ -1,0 +1,40 @@
+/* Estilos para la página web */
+body {
+    background-color: royalblue;
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 36px;
+    color: burlywood;
+}
+
+h2 {
+    font-size: 24px;
+    color: burlywood;
+}
+
+.encabezado {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 42px;
+}
+
+p {
+    text-align: justify;
+    text-transform: capitalize;
+    font-size: 20px;
+    color: burlywood;
+}
+
+#fondo {
+    background-color: lightcoral;
+    /* modificar el color a elección */
+}
+
+p a {  
+    color: #333;  
+    text-decoration: springgreen;
+    }
+    
